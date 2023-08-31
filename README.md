@@ -24,7 +24,7 @@
 >> python pythondownloader.py
 >> ````
 
->2、下载release版本双击运行
+>2、<a href="https://github.com/StephenJose-Dai/pythondownloader/releases/">下载release版本双击运行</a>
 
 # 关注作者
-![戴戴的Linux](https://gitee.com/StephenJose_Dai/pythondownloader/raw/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+![戴戴的Linux](https://raw.githubusercontent.com/StephenJose-Dai/pythondownloader/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
